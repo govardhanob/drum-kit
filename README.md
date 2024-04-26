@@ -5,7 +5,7 @@ A website fro playing Drum online Using Javascript,HTML,CSS
 
 ## Demo
 
-https://github.com/govardhanob/drum-kit/blob/main/drumkit-ezgif.com-video-to-gif-converter.gif
+![](https://github.com/govardhanob/drum-kit/blob/main/drumkit-ezgif.com-video-to-gif-converter.gif)
 
 ## 🚀 About Me
 I'm a Python full stack developer...
