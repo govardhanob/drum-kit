@@ -8,7 +8,7 @@ A website fro playing Drum online Using Javascript,HTML,CSS
 
 ![](https://github.com/govardhanob/drum-kit/blob/main/drumkit-ezgif.com-video-to-gif-converter.gif)
 
-##Live Demo
+
 <a href="https://harmonious-beignet-a93324.netlify.app/">Live Demo</a>
 
 ## 🚀 About Me
