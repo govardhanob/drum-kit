@@ -8,7 +8,8 @@ A website fro playing Drum online Using Javascript,HTML,CSS
 ![](https://github.com/govardhanob/drum-kit/blob/main/drumkit-ezgif.com-video-to-gif-converter.gif)
 
 ## 🚀 About Me
-I'm a Python full stack developer...
+Hi 👋, I'm Govardhan
+A passionate python fullstack developer from India
 
 
 ## 🔗 Links
